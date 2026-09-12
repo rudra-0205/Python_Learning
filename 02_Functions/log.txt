@@ -1,0 +1,2 @@
+This is a log message.
+App started successfully.
